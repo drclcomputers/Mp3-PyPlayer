@@ -1,0 +1,14 @@
+{
+    "bg":"#00bbff",
+    "play":"green",
+    "pause":"yellow",
+    "stop":"red",
+    "add":"orange",
+    "delete":"orange",
+    "text":"white",
+    "textpause":"black",
+    "skip":"orange",
+    "back":"orange",
+    "menu":"blue",
+    "menutext":"white"
+}

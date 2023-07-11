@@ -1,0 +1,14 @@
+{
+    "bg":"white",
+    "play":"white",
+    "pause":"white",
+    "stop":"white",
+    "add":"white",
+    "delete":"white",
+    "text":"black",
+    "textpause":"black",
+    "skip":"white",
+    "back":"white",
+    "menu":"white",
+    "menutext":"black"
+}

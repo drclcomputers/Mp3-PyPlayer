@@ -1,0 +1,13 @@
+Mp3 PyPLayer
+--ver 0.9
+
+Thank you for downloading Mp3 Pyplayer!
+This is an open-source mp3, wav, ogg player made with python (includes tkinter, pygame, pillow modules).
+
+Start by adding a file (you can delete it from the playback list).
+Click on the file appeared in the list to load it into the player and then press the triangle to start.
+You can pause, stop and play the next or the previous song.
+
+The 'Other' tab has a limited volume adjuster.
+
+In the 'Help' tab, you can change the skin of the player. Right Now, it comes with 4 skins.
